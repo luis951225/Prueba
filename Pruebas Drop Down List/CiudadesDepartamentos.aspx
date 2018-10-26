@@ -12,7 +12,7 @@
     <div>
     
    <asp:DropDownList ID="ddlDepartamento" runat="server" CssClass="lista" Width="30%" AutoPostBack="true" OnSelectedIndexChanged="ddlDepartamento_SelectedIndexChanged"></asp:DropDownList>
-
+ <br />
         <br />
         <br />
 
